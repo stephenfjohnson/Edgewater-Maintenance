@@ -1,0 +1,10 @@
+Edgewater-Maintenance
+=====================
+Edgewater Maintenance Was Created By Rock Solid Solutions, LLC 
+Developer - Stephen Johnson 
+rocksolidsolutions.org 
+
+SITE
+  Standards: HTML5, CSS3
+  Components: jQuery
+  Software: Sublime Text, Photoshop, CodeKit, GitHub, Chrome
