@@ -1,0 +1,73 @@
+@font-face {
+    font-family: 'green_grassregular';
+    src: url('../type/greengrass-regular_-webfont.eot');
+    src: url('../type/greengrass-regular_-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../type/greengrass-regular_-webfont.woff') format('woff'),
+         url('../type/greengrass-regular_-webfont.ttf') format('truetype'),
+         url('../type/greengrass-regular_-webfont.svg#green_grassregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+body {
+	background: #f8f2ea;
+}
+
+ul {
+	list-style: none;
+}
+
+h1 {
+	font-family: 'green_grassregular';
+	font-size: 200px;
+}
+
+h2 {
+	font-family: 'green_grassregular';
+	font-size: 150px;
+}
+
+h3 {
+	font-family: 'green_grassregular';
+	font-size: 100px;
+}
+
+h4 {
+	font-family: 'green_grassregular';
+	font-size: 40px;
+}
+
+p {
+	font-family: 'green_grassregular';
+	font-size: 50px;
+}
+
+.main-info {
+	line-height: .5;
+}
+
+.custom-logo img {
+	text-align: center;
+	display: block;
+    margin: 0px auto;
+}
+
+.justify {
+	text-align: justify;
+	line-height: 1;
+}
+
+/*Footer*/
+
+.full-footer {
+	background: #000;
+	float:left;
+	padding:15px 0;
+	width:100%;
+}
+
+.full-footer a{
+	font-size: 40px;
+	text-align: center;
+}
