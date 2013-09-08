@@ -20,7 +20,8 @@ ul {
 
 h1 {
 	font-family: 'green_grassregular';
-	font-size: 200px;
+	font-size: 185px;
+	letter-spacing: .01em
 }
 
 h2 {
@@ -35,7 +36,8 @@ h3 {
 
 h4 {
 	font-family: 'green_grassregular';
-	font-size: 40px;
+	font-size: 41px;
+	letter-spacing: .01em;
 }
 
 p {
@@ -44,7 +46,9 @@ p {
 }
 
 .main-info {
-	line-height: .5;
+	line-height: 1;
+	margin-top: 8px;
+	margin-bottom: 0;
 }
 
 .custom-logo img {
@@ -56,6 +60,8 @@ p {
 .justify {
 	text-align: justify;
 	line-height: 1;
+	margin-top: 16px;
+	margin-bottom: 23px;
 }
 
 /*Footer*/
@@ -63,19 +69,26 @@ p {
 .full-footer {
 	background: #000;
 	float:left;
-	padding:15px 0;
+	padding: 43px 0;
 	width:100%;
 }
 
 .full-footer a{
-	font-size: 40px;
+	font-size: 33px;
 	text-align: center;
 	color: #f8f2ea;
 }
 
 .full-footer p{
-	font-size: 40px;
-	text-align: center;
+	font-style: italic;
+	font-size: 33px;
+	font-family: "Book Antiqua", Palatino, "Palatino Linotype", "Palatino LT STD", Georgia, serif;	text-align: center;
+	margin: 0;
+}
+
+.full-footer .number a{
+	top: 2px;
+	position: relative;
 }
 
 
